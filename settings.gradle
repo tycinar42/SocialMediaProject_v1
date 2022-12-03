@@ -1,0 +1,10 @@
+rootProject.name = 'SocialMediaProject'
+include 'auth-service'
+include 'user-service'
+include 'config-server'
+include 'config-git-server'
+include 'api-gateway-service'
+include 'elastic-service'
+include 'mail-service'
+include 'post-service'
+
